@@ -9,7 +9,7 @@
   "author": "thegreatallen9999",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "material-design-icons": "^3.0.1",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0"
